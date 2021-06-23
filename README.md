@@ -10,7 +10,7 @@
   <!--<a href="https://t.me/iamnitinr" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white">
 </a>-->
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shivam_thaker&color=red"</p>
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=shivam_thaker&color=red"</p>-->
 
 ----
 
