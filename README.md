@@ -54,7 +54,7 @@
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Framer](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<!--
 ## 🤓 Projects & GitHub
 
 <details>
@@ -81,7 +81,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=shivam_thaker&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
 </details>
-<!--
+
 <details>
   <summary><b>💼 Open Source Projects</b></summary>
   <br />
