@@ -125,12 +125,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam327&show_icons=true&locale=en&layout=compact" alt="shivam327" /></p>
+<div align="center">
+	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam327&show_icons=true&locale=en&layout=compact" alt="shivam327" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam327&show_icons=true&locale=en" alt="shivam327" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam327&" alt="shivam327" /></p>
-<div align="center">
   
 ### Show some ❤️
 
