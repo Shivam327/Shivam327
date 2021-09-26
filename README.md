@@ -126,7 +126,7 @@
 
 
 <div align="center">
-	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam327&show_icons=true&locale=en&layout=compact" alt="shivam327" /></p>
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam327&show_icons=true&locale=en&layout=compact" alt="shivam327" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam327&show_icons=true&locale=en" alt="shivam327" /></p>
 
