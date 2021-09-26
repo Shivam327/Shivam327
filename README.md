@@ -14,7 +14,7 @@
 
 ----
 
-<p align="center">An avid and passionate full stack web developer specializing in the <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting projects.</p>
+<p align="center">An avid and passionate full stack web developer specializing in the <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for Web Development work and collaborating on exciting projects.</p>
 
 ## ⚡ Stuff I Know
 
