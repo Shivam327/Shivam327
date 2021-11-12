@@ -29,11 +29,11 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 <!--![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)-->
 <!--![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)-->
-<!--![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)-->
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)-->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!--![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)-->
-<!--![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)-->
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)-->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
