@@ -149,9 +149,9 @@
   <summary><b>📊 GitHub Stats</b></summary>
   <br />
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam327&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam327&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
     <br /><br />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam327&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam327&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=false&layout=compact" />
   </div>
 </details>
 
@@ -159,7 +159,7 @@
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shivam327&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shivam327&row=1&column=6&margin-h=8&theme=darkhub&count_private=false&margin-w=15&no-frame=true" />
   </p>
 </details>
 
@@ -167,7 +167,7 @@
   <summary><b>📈 GitHub Streaks</b></summary>
   <br />
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam327&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam327&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=false&include_all_commits=true" />
   </p>
 </details>
 
